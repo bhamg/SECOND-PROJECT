@@ -1,0 +1,31 @@
+body{
+background-color: #C2DED1;
+text-align: center;
+
+}
+div{
+  border: solid;
+  border-color: white;
+  border-radius: 10px;
+}
+h3{
+  padding: 0 20px;
+}
+p {
+  padding:0 10px 10px 10px;
+}
+img{
+  height: 230px;
+  width: 230px;
+  margin: 5%;
+  border: solid;
+  border-radius: 10px;
+  border-color:
+#34B3F1;
+  margin-bottom: 0;
+}
+.content{
+
+background-color: white;
+  margin: 0 40%;
+}
